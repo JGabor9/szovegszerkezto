@@ -1,0 +1,23 @@
+#inputWrapper {
+    margin-top: 10px;
+    padding-right: 25px;
+    
+}
+#outputWrapper {
+    margin-top: 10px;
+}
+
+#input {
+    border: 1px solid black;
+    padding: 1rem;
+    width: 50%;
+    float: inherit;
+}
+
+#output {
+    border: 1px solid black;
+    padding: 1rem;
+    width: 50%;
+    height: 300px;
+    float: inherit;
+}
